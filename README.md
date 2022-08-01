@@ -1,5 +1,7 @@
 # CARDINAL
-Simple blood banking software made with Python
+## Simple blood banking software made with Python
+## Programmed by Andujar Brutus & El Arbi
+
 
 <img src="https://github.com/Brutusa/CARDINAL/blob/main/Documentation/Screenshots/Cardinal1.png">
 
